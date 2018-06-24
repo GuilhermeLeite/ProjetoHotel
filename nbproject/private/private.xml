@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Hóspede.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/arquivos/servicos.txt</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/CartãoDeCrédito.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Services/Babysitter.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Contrato.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Services/Serviço.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Tarifa.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/arquivos/contratos.txt</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/buffers/BufferServiço.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/arquivos/login.txt</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/GUI/Inicial.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/buffers/BufferHóspede.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Services/AluguelDeCarros.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Contratos.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Services/Quartos.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/GUI/EditarContratos.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/fileModel/Arquivos.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Hóspedes.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/buffers/BufferContrato.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Hotel/Serviços.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/arquivos/hospedes.txt</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/Services/Restaurante.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/GUI/EditarHóspede.java</file>
+            <file>file:/F:/NetBeansProjects/ProjetoHotel/src/GUI/EditarServiços.java</file>
+        </group>
+    </open-files>
+</project-private>
